@@ -1,6 +1,7 @@
 # antidote
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+[![HOL Guard](https://img.shields.io/endpoint?url=https%3A%2F%2Fhol.org%2Fapi%2Fregistry%2Fbadges%2Fplugin%3Fslug%3Davtr99%252Fantidote%26metric%3Drelease)](https://hol.org/registry/plugins/avtr99%2Fantidote?utm_source=hol_marketplace&utm_medium=plugins_badge&utm_campaign=plugins&utm_content=avtr99%2Fantidote&ref=plugin-author-922a9a7d)
 
 > Stop AI agents from patching symptoms. Fix the root cause instead of masking the problem.
 
